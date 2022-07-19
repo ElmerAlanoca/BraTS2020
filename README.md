@@ -53,7 +53,7 @@ https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation
 
 - Drop all the volumes where the amount of annotated data is less that certain percentage. (To maximize training on real labeled vo0lumes).
 
-- Save all useful volumes to the local drive as numpy arrys (np).
+- Save all useful volumes to the local drive as numpy arrays (npy).
 
 - Split image and mask volumes into train and validation datasets.
 
